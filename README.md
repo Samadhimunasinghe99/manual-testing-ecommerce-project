@@ -1,4 +1,5 @@
 Manual Testing Project — E-Commerce Web Application
+
 📌 Project Overview
 This project demonstrates a complete Manual Software Testing process performed on an E-Commerce Web Application.
 The objective of this project was to apply real-world QA practices throughout the software testing lifecycle, including test planning, test scenario creation, test case design, test execution, defect reporting, requirements traceability, and test summary reporting.
